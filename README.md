@@ -37,6 +37,7 @@ _Introduction to generative AI concepts._
 - Hallucinations
 - Image Models
 - API Structure
+
 Notebook: [1. Generative AI.ipynb](1. Generative AI.ipynb)
 
 ### 2. **Claude Models**
@@ -45,6 +46,7 @@ _Getting started with the Claude API._
 - Input Formatting
 - Multi-Step Prompts
 - Document Summarization
+
 Notebook: [2. Claude Models.ipynb](2. Claude Models.ipynb)
 
 ### 3. **Embeddings**
@@ -53,6 +55,7 @@ _Working with text embeddings using Voyage AI_
 - Questing Answering
 - Recommendations
 - Long Texts
+
 Notebook: [3. Embeddings.ipynb](3. Embeddings.ipynb)
 
 ### 4. **Tools and Agents**
@@ -61,6 +64,7 @@ _Implementing function calling with Claude._
 - Structured Outputs
 - Choosing the Right Tool
 - Workflow
+
 Notebook: [4. Tools.ipynb](4. Tools.ipynb)
 
 ### 5. **Code Generation and Explanation**
@@ -68,6 +72,7 @@ _Best practices for prompting Claude to write and analyze code._
 - Generating Code from a Prompt
 - Explaining Existing Code
 - Generating Comments
+
 Notebook: [5. Code Generation.ipynb](5. Code Generation.ipynb)
 
 ## Environment Setup
