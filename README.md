@@ -13,9 +13,19 @@ Anthropic has quickly become one of the leaders in generative AI foundation mode
 
 In this course, we will introduce the main concepts behind this class of models and how their functionality is made accessible through the Anthropic API. We will build example applications to illustrate the use of each of these tools and how they can be composed and highlight when to use each model to obtain high-quality outputs at the lowest cost.
 
+## References
+
+- [Neural Networks and Deep Learning](https://amzn.to/48rZn9X)
+- [What is ChatGPT doing...](https://amzn.to/3LBRdBY)
+- [Introduction to Natural Language Processing](https://amzn.to/3ZMnTih)
+- [AI and Machine Learning for Coders](https://amzn.to/3KjB5W4)
+- [Generative Deep Learning](https://amzn.to/3t8PuxM)
+- [Developing Apps with GPT-4 and ChatGPT](https://amzn.to/3RHRkQa)
+- [Transformers for Natural Language Processing ](https://amzn.to/46kOo02)
+
 ## Contents
 
-This tutorial is divided into four parts:
+This tutorial is divided into five parts:
 
 
 ### 1. **Generative AI and Anthropic**
@@ -27,6 +37,7 @@ _Introduction to generative AI concepts._
 - Hallucinations
 - Image Models
 - API Structure
+Notebook: [1. Generative AI.ipynb](1. Generative AI.ipynb)
 
 ### 2. **Claude Models**
 _Getting started with the Claude API._
@@ -34,6 +45,7 @@ _Getting started with the Claude API._
 - Input Formatting
 - Multi-Step Prompts
 - Document Summarization
+Notebook: [2. Claude Models.ipynb](2. Claude Models.ipynb)
 
 ### 3. **Embeddings**
 _Working with text embeddings using Voyage AI_
@@ -41,6 +53,7 @@ _Working with text embeddings using Voyage AI_
 - Questing Answering
 - Recommendations
 - Long Texts
+Notebook: [3. Embeddings.ipynb](3. Embeddings.ipynb)
 
 ### 4. **Tools and Agents**
 _Implementing function calling with Claude._
@@ -48,12 +61,14 @@ _Implementing function calling with Claude._
 - Structured Outputs
 - Choosing the Right Tool
 - Workflow
+Notebook: [4. Tools.ipynb](4. Tools.ipynb)
 
 ### 5. **Code Generation and Explanation**
 _Best practices for prompting Claude to write and analyze code._
 - Generating Code from a Prompt
 - Explaining Existing Code
 - Generating Comments
+Notebook: [5. Code Generation.ipynb](5. Code Generation.ipynb)
 
 ## Environment Setup
 
