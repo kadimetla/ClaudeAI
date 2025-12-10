@@ -38,7 +38,7 @@ _Introduction to generative AI concepts._
 - Image Models
 - API Structure
 
-Notebook: [1. Generative AI.ipynb](1. Generative AI.ipynb)
+Notebook: [1. Generative AI.ipynb](https://github.com/DataForScience/ClaudeAI/blob/master/1.%20Generative%20AI.ipynb)
 
 ### 2. **Claude Models**
 _Getting started with the Claude API._
@@ -47,7 +47,7 @@ _Getting started with the Claude API._
 - Multi-Step Prompts
 - Document Summarization
 
-Notebook: [2. Claude Models.ipynb](2. Claude Models.ipynb)
+Notebook: [2. Claude Models.ipynb](https://github.com/DataForScience/ClaudeAI/blob/master/2.%20Claude%20Models.ipynb)
 
 ### 3. **Embeddings**
 _Working with text embeddings using Voyage AI_
@@ -56,7 +56,7 @@ _Working with text embeddings using Voyage AI_
 - Recommendations
 - Long Texts
 
-Notebook: [3. Embeddings.ipynb](3. Embeddings.ipynb)
+Notebook: [3. Embeddings.ipynb](https://github.com/DataForScience/ClaudeAI/blob/master/3.%20Embeddings.ipynb)
 
 ### 4. **Tools and Agents**
 _Implementing function calling with Claude._
@@ -65,7 +65,7 @@ _Implementing function calling with Claude._
 - Choosing the Right Tool
 - Workflow
 
-Notebook: [4. Tools.ipynb](4. Tools.ipynb)
+Notebook: [4. Tools.ipynb](https://github.com/DataForScience/ClaudeAI/blob/master/4.%20Tools.ipynb)
 
 ### 5. **Code Generation and Explanation**
 _Best practices for prompting Claude to write and analyze code._
@@ -73,7 +73,7 @@ _Best practices for prompting Claude to write and analyze code._
 - Explaining Existing Code
 - Generating Comments
 
-Notebook: [5. Code Generation.ipynb](5. Code Generation.ipynb)
+Notebook: [5. Code Generation.ipynb](https://github.com/DataForScience/ClaudeAI/blob/master/5.%20Code%20Generation.ipynb)
 
 ## Environment Setup
 
