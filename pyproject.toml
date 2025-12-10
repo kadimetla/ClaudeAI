@@ -17,4 +17,5 @@ dependencies = [
     "httpx>=0.27.0",
     "watermark>=2.5.0",
     "tqdm>=4.67.1",
+    "nltk>=3.9.2",
 ]
